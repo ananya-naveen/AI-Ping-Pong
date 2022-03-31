@@ -16,8 +16,19 @@
     color: white;
 }
 
-#start,#status{
+#start,#status,#restart,#instructions{
     font-size:22px;
     background-color: white;
-    color: white;
+    color: black;
+}
+
+h4{
+    background-color: white;
+    color: black;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog{
+    width:90%;
 }
